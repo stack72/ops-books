@@ -1,8 +1,23 @@
-# ops-books
-This is a list of book recommendations for books that are in the continuous delivery / ops / devops space
+#Recommended Books
 
-[Contunous Delivery](http://www.amazon.co.uk/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)  
+This is a repo that lists the books I got recommended to. It lists the titles that relate to Continuous Delivery, DevOps, Operations and Systems Thinking
+
+If you have a suggestion for the list, then please send a PR, I would be happy to add it.
+
+### Continuous Delivery / RelEng
+
+[Continous Delivery](http://www.amazon.co.uk/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)  
 [Release It](http://www.amazon.co.uk/dp/0978739213)  
+
+
+### DevOps
 [The Phoenix Project](http://www.amazon.co.uk/dp/0988262509)  
 [The Goal](http://www.amazon.co.uk/Goal-Process-Ongoing-Improvement/dp/0566086654)  
- 
+
+### Systems Thinking
+[Thinking in Systems: A Primer](http://www.amazon.co.uk/Thinking-Systems-Primer-Diana-Wright/dp/1844077268)
+
+### Tooling
+[Pro Nagios](http://www.amazon.co.uk/Nagios-Experts-Voice-Open-Source/dp/1590596099)  
+[The LogStash Book](http://www.amazon.co.uk/The-Logstash-Book-James-Turnbull-ebook/dp/B00B9JQTCO)  
+[The Docker Book](http://www.amazon.co.uk/Docker-Book-Containerization-new-virtualization-ebook/dp/B00LRROTI4/) 
