@@ -19,6 +19,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Crucial Conversations](http://www.amazon.co.uk/Crucial-Conversations-Tools-Talking-Stakes/dp/1469266822)  
 [The Wisdom of Teams: Creating the High-Performance Organization](http://www.amazon.com/The-Wisdom-Teams-High-Performance-Organization/dp/0060522003)  
 [Out of the Crisis](http://www.ebay.co.uk/itm/Out-of-the-Crisis-by-W-Edwards-Deming-Paperback-2000-/231522832307)  
+[Remote: Office Not Required](http://www.amazon.co.uk/Remote-Required-David-Heinemeier-Hansson/dp/0091954673)  
 
 ### Systems Thinking
 [Thinking in Systems: A Primer](http://www.amazon.co.uk/Thinking-Systems-Primer-Diana-Wright/dp/1844077268)
