@@ -28,6 +28,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Failure Is Not An Option](http://www.amazon.co.uk/Failure-Not-Option-Thorndike-Bestsellers/dp/0425179877)  
 [The Field Guide To Understanding Human Error](http://www.amazon.com/gp/product/B00BL0OZ0E)  
 [Drift Into Failure](http://www.amazon.com/gp/product/1409422216)  
+[Just Culture: Balancing Safety and Accountability](http://www.amazon.com/Just-Culture-Balancing-Safety-Accountability/dp/1409440605)  
 
 ### Tooling
 [Pro Nagios](http://www.amazon.co.uk/Nagios-Experts-Voice-Open-Source/dp/1590596099)  
