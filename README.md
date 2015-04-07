@@ -27,6 +27,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Thinking in Systems: A Primer](http://www.amazon.co.uk/Thinking-Systems-Primer-Diana-Wright/dp/1844077268)  
 [Failure Is Not An Option](http://www.amazon.co.uk/Failure-Not-Option-Thorndike-Bestsellers/dp/0425179877)  
 [The Field Guide To Understanding Human Error](http://www.amazon.com/gp/product/B00BL0OZ0E)  
+[Drift Into Failure](http://www.amazon.com/gp/product/1409422216)  
 
 ### Tooling
 [Pro Nagios](http://www.amazon.co.uk/Nagios-Experts-Voice-Open-Source/dp/1590596099)  
