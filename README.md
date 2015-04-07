@@ -12,7 +12,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 ### System Architecture
 [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)  
 
-### DevOps / Culture
+### DevOps / Culture / Leadership
 [The Phoenix Project](http://www.amazon.co.uk/dp/0988262509)  
 [The Goal](http://www.amazon.co.uk/Goal-Process-Ongoing-Improvement/dp/0566086654)  
 [Fearless Change](http://www.amazon.co.uk/Fearless-Change-patterns-introducing-ideas/dp/0201741571)  
@@ -20,6 +20,8 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [The Wisdom of Teams: Creating the High-Performance Organization](http://www.amazon.com/The-Wisdom-Teams-High-Performance-Organization/dp/0060522003)  
 [Out of the Crisis](http://www.ebay.co.uk/itm/Out-of-the-Crisis-by-W-Edwards-Deming-Paperback-2000-/231522832307)  
 [Remote: Office Not Required](http://www.amazon.co.uk/Remote-Required-David-Heinemeier-Hansson/dp/0091954673)  
+[Start With Why](http://www.amazon.co.uk/Start-Why-Leaders-Inspire-Everyone/dp/0241958229)  
+[Leaders Eat Last](http://www.amazon.co.uk/Leaders-Eat-Last-Together-Others/dp/0670923168)  
 
 ### Systems Thinking
 [Thinking in Systems: A Primer](http://www.amazon.co.uk/Thinking-Systems-Primer-Diana-Wright/dp/1844077268)
