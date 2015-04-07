@@ -24,7 +24,8 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Leaders Eat Last](http://www.amazon.co.uk/Leaders-Eat-Last-Together-Others/dp/0670923168)  
 
 ### Systems Thinking
-[Thinking in Systems: A Primer](http://www.amazon.co.uk/Thinking-Systems-Primer-Diana-Wright/dp/1844077268)
+[Thinking in Systems: A Primer](http://www.amazon.co.uk/Thinking-Systems-Primer-Diana-Wright/dp/1844077268)  
+[Failure Is Not An Option](http://www.amazon.co.uk/Failure-Not-Option-Thorndike-Bestsellers/dp/0425179877)  
 
 ### Tooling
 [Pro Nagios](http://www.amazon.co.uk/Nagios-Experts-Voice-Open-Source/dp/1590596099)  
