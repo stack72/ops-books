@@ -9,10 +9,15 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Continous Delivery](http://www.amazon.co.uk/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)  
 [Release It](http://www.amazon.co.uk/dp/0978739213)  
 
+### System Architecture
+[Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)  
 
-### DevOps
+### DevOps / Culture
 [The Phoenix Project](http://www.amazon.co.uk/dp/0988262509)  
 [The Goal](http://www.amazon.co.uk/Goal-Process-Ongoing-Improvement/dp/0566086654)  
+[Fearless Change](http://www.amazon.co.uk/Fearless-Change-patterns-introducing-ideas/dp/0201741571)  
+[Crucial Conversations](http://www.amazon.co.uk/Crucial-Conversations-Tools-Talking-Stakes/dp/1469266822)  
+[The Wisdom of Teams: Creating the High-Performance Organization](http://www.amazon.com/The-Wisdom-Teams-High-Performance-Organization/dp/0060522003)  
 
 ### Systems Thinking
 [Thinking in Systems: A Primer](http://www.amazon.co.uk/Thinking-Systems-Primer-Diana-Wright/dp/1844077268)
@@ -20,4 +25,4 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 ### Tooling
 [Pro Nagios](http://www.amazon.co.uk/Nagios-Experts-Voice-Open-Source/dp/1590596099)  
 [The LogStash Book](http://www.amazon.co.uk/The-Logstash-Book-James-Turnbull-ebook/dp/B00B9JQTCO)  
-[The Docker Book](http://www.amazon.co.uk/Docker-Book-Containerization-new-virtualization-ebook/dp/B00LRROTI4/) 
+[The Docker Book](http://www.amazon.co.uk/Docker-Book-Containerization-new-virtualization-ebook/dp/B00LRROTI4/)  
