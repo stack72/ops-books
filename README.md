@@ -8,6 +8,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 
 [Continous Delivery](http://www.amazon.co.uk/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)  
 [Release It](http://www.amazon.co.uk/dp/0978739213)  
+[Beautiful Builds](http://leanpub.com/build)  
 
 ### System Architecture
 [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)  
@@ -22,6 +23,8 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Remote: Office Not Required](http://www.amazon.co.uk/Remote-Required-David-Heinemeier-Hansson/dp/0091954673)  
 [Start With Why](http://www.amazon.co.uk/Start-Why-Leaders-Inspire-Everyone/dp/0241958229)  
 [Leaders Eat Last](http://www.amazon.co.uk/Leaders-Eat-Last-Together-Others/dp/0670923168)  
+[Notes to a Software Team
+Leader](amazon.com/Notes-Software-Team-Leader-ebook/dp/B00EP03O5Y/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1377129025&sr=1-1)  
 
 ### Systems Thinking
 [Thinking in Systems: A Primer](http://www.amazon.co.uk/Thinking-Systems-Primer-Diana-Wright/dp/1844077268)  
