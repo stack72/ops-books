@@ -23,6 +23,10 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Start With Why](http://www.amazon.co.uk/Start-Why-Leaders-Inspire-Everyone/dp/0241958229)  
 [Leaders Eat Last](http://www.amazon.co.uk/Leaders-Eat-Last-Together-Others/dp/0670923168)  
 
+### Web Operations
+[Web Operations: Keeping the Data on Time](http://www.amazon.co.uk/Web-Operations-Keeping-Data-Time/dp/1449377440)  
+[The Art of Capacity Planning: Scaling Web Resources](http://www.amazon.co.uk/Art-Capacity-Planning-Scaling-Resources/dp/0596518579)  
+
 ### Systems Thinking
 [Thinking in Systems: A Primer](http://www.amazon.co.uk/Thinking-Systems-Primer-Diana-Wright/dp/1844077268)  
 [Failure Is Not An Option](http://www.amazon.co.uk/Failure-Not-Option-Thorndike-Bestsellers/dp/0425179877)  
