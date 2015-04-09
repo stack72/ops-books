@@ -33,6 +33,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [The Field Guide To Understanding Human Error](http://www.amazon.com/gp/product/B00BL0OZ0E)  
 [Drift Into Failure](http://www.amazon.com/gp/product/1409422216)  
 [Just Culture: Balancing Safety and Accountability](http://www.amazon.com/Just-Culture-Balancing-Safety-Accountability/dp/1409440605)  
+[The Fifth Discipline: The art and practice of the learning organization](http://www.amazon.co.uk/The-Fifth-Discipline-practice-organization/dp/1905211201)
 
 ### Tooling
 [Pro Nagios](http://www.amazon.co.uk/Nagios-Experts-Voice-Open-Source/dp/1590596099)  
