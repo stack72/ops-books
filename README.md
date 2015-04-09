@@ -1,6 +1,6 @@
 #Recommended Books
 
-This is a repo that lists the books I got recommended to. It lists the titles that relate to Continuous Delivery, DevOps, Operations and Systems Thinking
+This is a repo that lists the books I got recommended since moving more into the operations / infrastrastructure world. It lists the titles that relate to Continuous Delivery, DevOps, Operations and Systems Thinking
 
 If you have a suggestion for the list, then please send a PR, I would be happy to add it.
 
