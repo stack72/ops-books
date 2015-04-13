@@ -12,6 +12,11 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 ### System Architecture
 [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)  
 
+### System administration
+
+[UNIX and Linux System Administration Handbook](http://amzn.com/0133390098)   
+[Essential System Administration:Tools and Techniques for Linux and Unix Administration](http://amzn.com/0596003439)
+
 ### DevOps / Culture / Leadership
 [The Phoenix Project](http://www.amazon.co.uk/dp/0988262509)  
 [The Goal](http://www.amazon.co.uk/Goal-Process-Ongoing-Improvement/dp/0566086654)  
