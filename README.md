@@ -11,6 +11,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 
 ### System Architecture
 [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)  
+[Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358/)  
 
 ### DevOps / Culture / Leadership
 [The Phoenix Project](http://www.amazon.co.uk/dp/0988262509)  
