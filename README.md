@@ -8,6 +8,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 
 [Continous Delivery](http://www.amazon.co.uk/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)  
 [Release It](http://www.amazon.co.uk/dp/0978739213)  
+[Build Quality In](https://leanpub.com/buildqualityin)
 
 ### System Architecture
 [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)  
