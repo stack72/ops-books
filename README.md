@@ -24,6 +24,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Remote: Office Not Required](http://www.amazon.co.uk/Remote-Required-David-Heinemeier-Hansson/dp/0091954673)  
 [Start With Why](http://www.amazon.co.uk/Start-Why-Leaders-Inspire-Everyone/dp/0241958229)  
 [Leaders Eat Last](http://www.amazon.co.uk/Leaders-Eat-Last-Together-Others/dp/0670923168)  
+[Turn the Ship Around!: A True Story of Turning Followers into Leaders](http://www.amazon.com/gp/product/1591846404/)
 
 ### Web Operations
 [Web Operations: Keeping the Data on Time](http://www.amazon.co.uk/Web-Operations-Keeping-Data-Time/dp/1449377440)  
