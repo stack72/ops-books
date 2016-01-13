@@ -9,6 +9,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Continous Delivery](http://www.amazon.co.uk/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)  
 [Release It](http://www.amazon.co.uk/dp/0978739213)  
 [Build Quality In](https://leanpub.com/buildqualityin)
+[Ship It](http://www.amazon.com/Practical-Guide-Successful-Software-Projects/dp/0974514047)
 
 ### System Architecture
 [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)  
@@ -32,6 +33,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Turn the Ship Around!: A True Story of Turning Followers into Leaders](http://www.amazon.com/gp/product/1591846404/)  
 [The High-Velocity Edge: How Market Leaders Leverage Operational Excellence to Beat the Competition](http://www.amazon.com/High-Velocity-Edge-Operational-Excellence-Competition/dp/0071741410)  
 [Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results](http://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238)  
+[Behind Closed Doors](http://www.amazon.com/Behind-Closed-Doors-Management-Programmers/dp/0976694026)
 
 ### Web Operations
 [Web Operations: Keeping the Data on Time](http://www.amazon.co.uk/Web-Operations-Keeping-Data-Time/dp/1449377440)  
