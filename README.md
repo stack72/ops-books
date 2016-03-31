@@ -18,6 +18,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 
 [UNIX and Linux System Administration Handbook](http://amzn.com/0133390098)   
 [Essential System Administration:Tools and Techniques for Linux and Unix Administration](http://amzn.com/0596003439)
+[The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems, Volume 2](http://www.amazon.com/The-Practice-Cloud-System-Administration/dp/032194318X)
 
 ### DevOps / Culture / Leadership
 [The Phoenix Project](http://www.amazon.co.uk/dp/0988262509)  
