@@ -32,6 +32,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Turn the Ship Around!: A True Story of Turning Followers into Leaders](http://www.amazon.com/gp/product/1591846404/)  
 [The High-Velocity Edge: How Market Leaders Leverage Operational Excellence to Beat the Competition](http://www.amazon.com/High-Velocity-Edge-Operational-Excellence-Competition/dp/0071741410)  
 [Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results](http://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238)  
+[Black Box Thinking](http://www.amazon.co.uk/dp/1473613809)  
 
 ### Web Operations
 [Web Operations: Keeping the Data on Time](http://www.amazon.co.uk/Web-Operations-Keeping-Data-Time/dp/1449377440)  
