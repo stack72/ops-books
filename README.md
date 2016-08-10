@@ -8,17 +8,22 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 
 [Continous Delivery](http://www.amazon.co.uk/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)  
 [Release It](http://www.amazon.co.uk/dp/0978739213)  
-[Build Quality In](https://leanpub.com/buildqualityin)
-[Ship It](http://www.amazon.com/Practical-Guide-Successful-Software-Projects/dp/0974514047)
+[Build Quality In](https://leanpub.com/buildqualityin)  
+[Ship It](http://www.amazon.com/Practical-Guide-Successful-Software-Projects/dp/0974514047)  
+[The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices](https://www.amazon.co.uk/gp/product/152391744X)
 
 ### System Architecture
 [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)  
 [Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358/)  
+[Practice of Cloud System Administration, The: Designing and Operating Large Distributed Systems, Volume 2](https://www.amazon.co.uk/Practice-Cloud-System-Administration-Distributed/dp/032194318X)  
+[Infrastructure as Code: Managing Servers in the Cloud](https://www.amazon.co.uk/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357)  
 
 ### System administration
 
 [UNIX and Linux System Administration Handbook](http://amzn.com/0133390098)   
-[Essential System Administration:Tools and Techniques for Linux and Unix Administration](http://amzn.com/0596003439)
+[Essential System Administration:Tools and Techniques for Linux and Unix Administration](http://amzn.com/0596003439)  
+[Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.co.uk/Site-Reliability-Engineering-Production-Systems/dp/149192912X)  
+[DevOps Troubleshooting: Linux Server Best Practices](https://www.amazon.co.uk/DevOps-Troubleshooting-Linux-Server-Practices/dp/0321832043)  
 
 ### DevOps / Culture / Leadership
 [The Phoenix Project](http://www.amazon.co.uk/dp/0988262509)  
@@ -33,11 +38,13 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Turn the Ship Around!: A True Story of Turning Followers into Leaders](http://www.amazon.com/gp/product/1591846404/)  
 [The High-Velocity Edge: How Market Leaders Leverage Operational Excellence to Beat the Competition](http://www.amazon.com/High-Velocity-Edge-Operational-Excellence-Competition/dp/0071741410)  
 [Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results](http://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238)  
-[Behind Closed Doors](http://www.amazon.com/Behind-Closed-Doors-Management-Programmers/dp/0976694026)
+[Behind Closed Doors](http://www.amazon.com/Behind-Closed-Doors-Management-Programmers/dp/0976694026)  
+[Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale](https://www.amazon.co.uk/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309)  
 
 ### Web Operations
 [Web Operations: Keeping the Data on Time](http://www.amazon.co.uk/Web-Operations-Keeping-Data-Time/dp/1449377440)  
 [The Art of Capacity Planning: Scaling Web Resources](http://www.amazon.co.uk/Art-Capacity-Planning-Scaling-Resources/dp/0596518579)  
+[The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise](https://www.amazon.co.uk/Art-Scalability-Architecture-Organizations-Enterprise/dp/0134032802)  
 
 ### Systems Thinking
 [Thinking in Systems: A Primer](http://www.amazon.co.uk/Thinking-Systems-Primer-Diana-Wright/dp/1844077268)  
@@ -53,7 +60,8 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [The Docker Book](http://www.amazon.co.uk/Docker-Book-Containerization-new-virtualization-ebook/dp/B00LRROTI4/)  
 
 ### Databases
-[High Performance MySQL](http://www.amazon.co.uk/High-Performance-MySQL-Optimization-Replication/dp/1449314287)
+[High Performance MySQL](http://www.amazon.co.uk/High-Performance-MySQL-Optimization-Replication/dp/1449314287)  
+[Cassandra: The Definitive Guide](https://www.amazon.co.uk/Cassandra-Definitive-Guide-Jeff-Carpenter/dp/1491933666)
 
 ### Agile
 [Implementing Lean Software Development](http://www.amazon.co.uk/Implementing-Lean-Software-Development-Addison-Wesley/dp/0321437381/ref=cm_lmf_tit_11)  
