@@ -58,6 +58,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Pro Nagios](http://www.amazon.co.uk/Nagios-Experts-Voice-Open-Source/dp/1590596099)  
 [The LogStash Book](http://www.amazon.co.uk/The-Logstash-Book-James-Turnbull-ebook/dp/B00B9JQTCO)  
 [The Docker Book](http://www.amazon.co.uk/Docker-Book-Containerization-new-virtualization-ebook/dp/B00LRROTI4/)  
+[The Art of Monitoring](https://www.artofmonitoring.com)
 
 ### Databases
 [High Performance MySQL](http://www.amazon.co.uk/High-Performance-MySQL-Optimization-Replication/dp/1449314287)  
