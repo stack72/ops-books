@@ -71,3 +71,4 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [The Lean Mindset](http://www.amazon.co.uk/The-Lean-Mindset-Questions-Signature/dp/0321896904/ref=pd_sim_b_4?ie=UTF8&refRID=0V4YYQKVT6CC0YE0QWRV)  
 [Lean from the Trenches](http://www.amazon.co.uk/Lean-Trenches-Managing-Large-Scale-Projects/dp/1934356859/ref=cm_lmf_tit_15)  
 [Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1473301960&sr=8-1)
+[Lean Enterprise](https://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425/ref=sr_1_1?s=books&ie=UTF8&qid=1473302029&sr=1-1)
