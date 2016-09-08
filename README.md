@@ -70,3 +70,4 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Running Lean](http://www.amazon.co.uk/Running-Lean-Iterate-Works-OReilly/dp/1449305172/ref=sr_1_1?ie=UTF8&qid=1428438864&sr=8-1&keywords=running+lean)  
 [The Lean Mindset](http://www.amazon.co.uk/The-Lean-Mindset-Questions-Signature/dp/0321896904/ref=pd_sim_b_4?ie=UTF8&refRID=0V4YYQKVT6CC0YE0QWRV)  
 [Lean from the Trenches](http://www.amazon.co.uk/Lean-Trenches-Managing-Large-Scale-Projects/dp/1934356859/ref=cm_lmf_tit_15)  
+[Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1473301960&sr=8-1)
