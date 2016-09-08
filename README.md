@@ -64,7 +64,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [High Performance MySQL](http://www.amazon.co.uk/High-Performance-MySQL-Optimization-Replication/dp/1449314287)  
 [Cassandra: The Definitive Guide](https://www.amazon.co.uk/Cassandra-Definitive-Guide-Jeff-Carpenter/dp/1491933666)
 
-### Agile
+### Agile/Lean
 [Implementing Lean Software Development](http://www.amazon.co.uk/Implementing-Lean-Software-Development-Addison-Wesley/dp/0321437381/ref=cm_lmf_tit_11)  
 [Kanban](http://www.amazon.co.uk/Kanban-David-J-Anderson/dp/0984521402/ref=cm_lmf_tit_8)  
 [Running Lean](http://www.amazon.co.uk/Running-Lean-Iterate-Works-OReilly/dp/1449305172/ref=sr_1_1?ie=UTF8&qid=1428438864&sr=8-1&keywords=running+lean)  
