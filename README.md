@@ -73,3 +73,4 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1473301960&sr=8-1)
 [Lean Enterprise](https://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425/ref=sr_1_1?s=books&ie=UTF8&qid=1473302029&sr=1-1)
 [Impact Mapping](https://www.amazon.com/Impact-Mapping-Software-Products-Projects/dp/0955683645/ref=sr_1_1?s=books&ie=UTF8&qid=1473302308&sr=1-1)
+[Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/ref=sr_1_1?s=books&ie=UTF8&qid=1473302430&sr=1-1)
