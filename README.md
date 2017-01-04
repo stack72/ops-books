@@ -27,6 +27,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 
 ### DevOps / Culture / Leadership
 [The Phoenix Project](http://www.amazon.co.uk/dp/0988262509)  
+[The DevOps Cookbook](https://www.amazon.co.uk/Devops-Handbook-World-Class-Reliability-Organizations/dp/1942788002/)  
 [The Goal](http://www.amazon.co.uk/Goal-Process-Ongoing-Improvement/dp/0566086654)  
 [Fearless Change](http://www.amazon.co.uk/Fearless-Change-patterns-introducing-ideas/dp/0201741571)  
 [Crucial Conversations](http://www.amazon.co.uk/Crucial-Conversations-Tools-Talking-Stakes/dp/1469266822)  
