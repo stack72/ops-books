@@ -65,9 +65,13 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [High Performance MySQL](http://www.amazon.co.uk/High-Performance-MySQL-Optimization-Replication/dp/1449314287)  
 [Cassandra: The Definitive Guide](https://www.amazon.co.uk/Cassandra-Definitive-Guide-Jeff-Carpenter/dp/1491933666)
 
-### Agile
+### Agile/Lean
 [Implementing Lean Software Development](http://www.amazon.co.uk/Implementing-Lean-Software-Development-Addison-Wesley/dp/0321437381/ref=cm_lmf_tit_11)  
 [Kanban](http://www.amazon.co.uk/Kanban-David-J-Anderson/dp/0984521402/ref=cm_lmf_tit_8)  
 [Running Lean](http://www.amazon.co.uk/Running-Lean-Iterate-Works-OReilly/dp/1449305172/ref=sr_1_1?ie=UTF8&qid=1428438864&sr=8-1&keywords=running+lean)  
 [The Lean Mindset](http://www.amazon.co.uk/The-Lean-Mindset-Questions-Signature/dp/0321896904/ref=pd_sim_b_4?ie=UTF8&refRID=0V4YYQKVT6CC0YE0QWRV)  
 [Lean from the Trenches](http://www.amazon.co.uk/Lean-Trenches-Managing-Large-Scale-Projects/dp/1934356859/ref=cm_lmf_tit_15)  
+[Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1?ie=UTF8&qid=1473301960&sr=8-1)
+[Lean Enterprise](https://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425/ref=sr_1_1?s=books&ie=UTF8&qid=1473302029&sr=1-1)
+[Impact Mapping](https://www.amazon.com/Impact-Mapping-Software-Products-Projects/dp/0955683645/ref=sr_1_1?s=books&ie=UTF8&qid=1473302308&sr=1-1)
+[Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/ref=sr_1_1?s=books&ie=UTF8&qid=1473302430&sr=1-1)
