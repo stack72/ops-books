@@ -11,6 +11,7 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Build Quality In](https://leanpub.com/buildqualityin)  
 [Ship It](http://www.amazon.com/Practical-Guide-Successful-Software-Projects/dp/0974514047)  
 [The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices](https://www.amazon.co.uk/gp/product/152391744X)
+[Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery)
 
 ### System Architecture
 [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)  
