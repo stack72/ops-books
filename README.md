@@ -11,12 +11,15 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [Build Quality In](https://leanpub.com/buildqualityin)  
 [Ship It](http://www.amazon.com/Practical-Guide-Successful-Software-Projects/dp/0974514047)  
 [The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices](https://www.amazon.co.uk/gp/product/152391744X)
+[Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery)
 
 ### System Architecture
 [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers)  
 [Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358/)  
 [Practice of Cloud System Administration, The: Designing and Operating Large Distributed Systems, Volume 2](https://www.amazon.co.uk/Practice-Cloud-System-Administration-Distributed/dp/032194318X)  
-[Infrastructure as Code: Managing Servers in the Cloud](https://www.amazon.co.uk/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357)  
+[Infrastructure as Code: Managing Servers in the Cloud](https://www.amazon.co.uk/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357)
+[Essential Infrastructure as Code](https://www.manning.com/books/essential-infrastructure-as-code)
+[Pipeline as Code](https://www.manning.com/books/pipeline-as-code) 
 
 ### System administration
 
